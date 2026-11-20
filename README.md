@@ -2,7 +2,7 @@
 
 Full-stack engineer based in South Korea (UTC+9), about four years in. I build and run production systems where money and devices meet software: payment gateways, a vendor POS, card terminals, kiosks and the APIs behind them. I lead a two-person development team at ETRAN CNC. Before that, I worked fully remotely in English on a multinational Flutter team.
 
-Most of my work lives in private client and company repositories, so the contribution graph shows the activity but not the code. I'm glad to walk through the architecture and the decisions behind it.
+Most of my work lives in private client and company repositories, so the contribution graph shows the activity but not the code. The decisions behind it are written up in **[engineering-case-studies](https://github.com/hogyun3709/engineering-case-studies)**: payments reconciliation, POS and kiosk integration, ledger migrations and reliability fixes, and I'm glad to walk through any of them.
 
 **Stack:** TypeScript · NestJS · Next.js · React · Prisma · Node.js · Python (FastAPI) · PostgreSQL · MySQL/MariaDB · Redis · AWS · Docker · Flutter
 
