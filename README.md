@@ -15,7 +15,7 @@ Most of my work lives in private client and company repositories, so the contrib
 
 ### How I work
 
-I work with AI agents (Claude Code, Codex) every day, and I treat them as a team to orchestrate rather than a shortcut to code. I break work into well-scoped tasks with PRDs and acceptance checks, run agents in parallel where the work allows, and decide where compute, review time and my own attention are best spent. My own effort goes into the engineering around them: system design, what must stay correct, which trade-off to accept, and how to prove the result with tests, measurements and reconciliation.
+I work with AI agents and treat them as a team to orchestrate rather than a shortcut to code. I break work into well-scoped tasks with PRDs and acceptance checks, run agents in parallel where the work allows, and decide where compute, review time and my own attention are best spent. My own effort goes into the engineering around them: system design, what must stay correct, which trade-off to accept, and how to prove the result with tests, measurements and reconciliation.
 
 ### Contact
 
